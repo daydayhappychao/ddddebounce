@@ -1,0 +1,17 @@
+{
+  "name": "ddddebounce",
+  "version": "1.0.0",
+  "description": "useful debounce better than lodash",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "keywords": [
+    "debounce"
+  ],
+  "author": "Magin",
+  "license": "ISC"
+}
